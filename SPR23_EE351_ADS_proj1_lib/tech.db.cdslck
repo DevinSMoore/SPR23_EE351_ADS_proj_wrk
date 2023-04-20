@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      rache
+HostName                       devin-laptop
+ProcessIdentifier              16940
+ProcessCreationTime_UTC        1682026156
+ProcessCreationTime_Readable   Thu Apr 20 14:29:16 2023 Pacific Daylight Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\SPR23_EE351_ADS_proj_wrk\SPR23_EE351_ADS_proj1_lib\tech.db.cdslck
+TimeEditLocked                 Thu Apr 20 14:46:03 2023 Pacific Daylight Time
