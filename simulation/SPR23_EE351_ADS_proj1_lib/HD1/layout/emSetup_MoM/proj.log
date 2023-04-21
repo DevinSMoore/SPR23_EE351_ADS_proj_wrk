@@ -1,0 +1,37 @@
+License checkout took 0.028 sec
+License checkout took 0.017 sec
+Momentum MomEngine_64 2023.10.445 (*) built: Nov  4 2022
+Copyright  1992 - 2022 Keysight Technologies
+Simulation started on: Thu Apr 20 16:51:27 2023
+Simulation Mode: uW
+Substrate valid
+Automatically determined a snap distance of
+0.0021 mil for layout healing.
+Layout simplification started
+.........|.........|.........|.........| 
+Layout simplification finished
+Generating mesh at 6 GHz...
+S-parameter simulation
+S-parameter simulation started
+...initializing
+...extracting layout
+...expanding thick conductors
+...analyzing ports
+...reducing mesh
+Automatic selection: direct compressed matrix solver
+Using multi-threading (12 threads)
+Matrix size: 7600 (reduced: 7382)
+Simulation temperature: 298.15 K
+Frequency sweep started
+Simulation frequency [1] = 6 GHz
+...loading Green functions
+...creating Basis sections
+...allocating interaction matrix
+...loading interaction matrix
+.........|.........|.........|.........| 
+...solving interaction matrix
+.........|.........|.........|.........| 
+...calculating S-parameters
+S-parameter simulation finished
+Simulation finished on: Thu Apr 20 16:51:37 2023
+The simulation results have been saved in dataset "HD1_MomUW".
